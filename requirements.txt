@@ -1,0 +1,5 @@
+colorama==0.4.4
+pytube==11.0.1
+termcolor==1.1.0
+colored==1.4.2
+YouTube
