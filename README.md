@@ -8,15 +8,18 @@ A Python script to scan Open Port on a particular Host
 ### Setup for Windows
 
 * Install Python3 for Windows from [here](https://python.org).
-* Open Windows Command Prompt
+* Open Windows Command Prompt or PowerShell
 * Clone the repository
   ```bash
   git clone https://github.com/MrRobot3301/PyTube/
   ```
 * Navigate inside the ```PyTube/``` directory.
   ```bash
-  ls  
+  cd PyTube  
   ```
+* Install Requirements
+  ```bash
+  pip install -r requirements.txt
 * Run using Python
   ```bash
   python "PyTube.py"
@@ -27,17 +30,17 @@ A Python script to scan Open Port on a particular Host
 
 * Install Python3 from [here](https://python.org).
 * Open Terminal
-* Install Requirements
-  ```bash
-  pip install -r requirements.txt
 * Clone the repository
   ```bash
   git clone https://github.com/MrRobot3301/PyTube/
   ```
 * Navigate inside the ```PyTube/``` directory.
   ```bash
-  ls
+  cd PyTube
   ```
+* Install Requirements
+  ```bash
+  pip install -r requirements.txt
 * Run
   ```bash
   python3 PyTube.py
