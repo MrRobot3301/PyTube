@@ -19,7 +19,7 @@ A Python script to scan Open Port on a particular Host
   ```
 * Run using Python
   ```bash
-  python "<your path>PyTube.py"
+  python "PyTube.py"
   ```
 
 
